@@ -1,0 +1,1 @@
+print("thoday is Git Github class f2.py")
